@@ -2,7 +2,7 @@
 
 This repository contains the accompanying code for the paper:
 
-**"Denoising Word Embeddings by Averaging in a Shared Space."** Avi Caciularu, Ido Dagan and Jacob Goldberger. *In *SEM 2021*.
+**"Denoising Word Embeddings by Averaging in a Shared Space."** Avi Caciularu, Ido Dagan and Jacob Goldberger. *In \*SEM 2021*.
 [[PDF]](https://arxiv.org/pdf/2101.00406.pdf)
 
 ---
