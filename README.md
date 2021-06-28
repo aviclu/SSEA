@@ -13,7 +13,7 @@ If you find our work useful, please cite the paper as:
 @article{caciularu2021denoising,
   title={Denoising Word Embeddings by Averaging in a Shared Space},
   author={Caciularu, Avi and Dagan, Ido and Goldberger, Jacob},
-  journal={Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM)},
+  journal={Proceedings of the Tenth Joint Conference on Lexical and Computational Semantics (*SEM)},
   year={2021}
 }
 ```
